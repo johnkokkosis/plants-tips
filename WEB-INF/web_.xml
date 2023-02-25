@@ -21,22 +21,5 @@
     <servlet-mapping>
         <servlet-name>invoker</servlet-name>
         <url-pattern>/servlet/*</url-pattern>
-    </servlet-mapping>
-
-
-  
-
-   
-
-
-  
-
-  
-
-
-
-
-  
-
-  
+    </servlet-mapping> 
 </web-app>
